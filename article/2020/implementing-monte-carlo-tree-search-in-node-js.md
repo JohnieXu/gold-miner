@@ -2,10 +2,10 @@
 > * 原文作者：[Michael Liu](https://medium.com/@quasimik)
 > * 译文出自：[掘金翻译计划](https://github.com/xitu/gold-miner)
 > * 本文永久链接：[https://github.com/xitu/gold-miner/blob/master/article/2020/implementing-monte-carlo-tree-search-in-node-js.md](https://github.com/xitu/gold-miner/blob/master/article/2020/implementing-monte-carlo-tree-search-in-node-js.md)
-> * 译者：
+> * 译者：[JohnieXu](https://github.com/JohnieXu)
 > * 校对者：
 
-# Implementing Monte Carlo Tree Search in Node.js
+# 在 Node.js 中实现蒙特查理树搜索
 
 ![](https://cdn-images-1.medium.com/max/5000/1*RIYK4LcwRn_GCm_A3Mg1JA.jpeg)
 
